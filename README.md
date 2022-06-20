@@ -1,5 +1,5 @@
 # Python Random Walker
-This projects is a little app that runs image segmentation with the random walker function. 
+This project is a little app that runs the random walker segmentation over an image. 
 
 ## Installation
 This solution uses the pycharm community IDE to run it. So install this IDE and python 3.10.
