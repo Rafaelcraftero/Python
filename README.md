@@ -30,4 +30,4 @@ When you have the image open and have an "Edit.png" image in the same repository
 
 ## Extra
 
-The Edit creates a "Edit.png" image in the directory where the main is located so if you already have the image edited you can just put it in the same repository with "Edit.png" as name and press the Process button.
+The Edit creates a "Edit.png" image in the directory where the main is located so if you already have the image edited you can just put it in the same directory with "Edit.png" as name and press the Process button.
